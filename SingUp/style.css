@@ -1,0 +1,24 @@
+.row{
+    margin-left: 25%;
+}
+body{
+    background-image:url("https://i.pinimg.com/originals/92/58/9e/92589e5f88eeb86c19482fc514efdbf8.gif");
+    background-repeat: no-repeat;
+    background-size: 1524px  1050px;
+}
+label{
+    color: white;
+}
+h1{
+    color: white;
+    margin-left: -50px;
+}
+img{
+   width:40px;
+   height:40px;
+}
+.tt{
+    border: 3px white solid;
+    border-radius: 10px;
+    margin-left: 30px;
+}
